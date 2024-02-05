@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "923277642416",
+    "project_id": "projetmobile-d6a2a",
+    "storage_bucket": "projetmobile-d6a2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923277642416:android:16fbbe0188ff3a85c78975",
+        "android_client_info": {
+          "package_name": "com.example.RestaurentApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923277642416-i3fota828og5iaso06k1b6fsfkankdq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzXvY_-dWZ0jOUYRcezwJZWCkajFmoBXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923277642416-i3fota828og5iaso06k1b6fsfkankdq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923277642416:android:d6a0185af6322ac0c78975",
+        "android_client_info": {
+          "package_name": "com.example.myrecyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923277642416-i3fota828og5iaso06k1b6fsfkankdq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzXvY_-dWZ0jOUYRcezwJZWCkajFmoBXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923277642416-i3fota828og5iaso06k1b6fsfkankdq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
